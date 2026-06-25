@@ -91,7 +91,7 @@ This paper addresses content leakage in style-reference-based text-to-image diff
 
 [Bayes-CAL: Robust Cross-Modal Alignment by Bayesian Approach for Few-Shot OoD Generalization](https://link.springer.com/article/10.1007/s11263-025-02527-y)
 
-**Lin Zhu**, Weihan Yin, Fan Wu, Qinying Gu, Xinbing Wang, Chenghu Zhou, Nanyang Ye
+**Lin Zhu$^{*}$**, Weihan Yin$^{*}$, Fan Wu, Qinying Gu, Xinbing Wang, Chenghu Zhou, Nanyang Ye （$^{*}$Equal contribution）
 
 This paper studies few-shot two-dimensional OoD generalization under both correlation shift and diversity shift, where fine-tuned large pre-trained models may overfit limited samples and generalize poorly to unseen classes. The authors propose Bayes-CAL, a Bayesian cross-modal image-text alignment method that fine-tunes text representations with domain-invariant regularization, achieving stronger and more stable OoD performance across image classification, object detection, and instance segmentation.
 
