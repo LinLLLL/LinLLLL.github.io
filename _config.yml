@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Zhu"
-description              : "Acad-homepage "
+description              : # "Acad-homepage "
 repository               : "LinLLLL/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Lin Zhu"
   avatar           : "images/LINZHU.jpg"
   bio              : "Shanghai Jiao Tong University"
-  location         : "Hangzhou, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=_kAniL4AAAAJ"
