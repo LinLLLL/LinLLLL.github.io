@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Lin Zhu. I received a B.S. degree in Statistics from Central South University, China, in 2019 and an M.S. degree in Statistics from Shandong University, China, in 2022. Now, I am currently pursuing a PhD degree in Computer Science and Technology at Shanghai Jiao Tong University, China, where I was advised by Prof.[Nanyang Ye](https://ynysjtu.github.io/).
+My name is Lin Zhu. I received a B.S. degree in Statistics from Central South University, China, in 2019 and an M.S. degree in Statistics from Shandong University, China, in 2022. I am currently a final-year Ph.D. candidate in Computer Science and Technology at Shanghai Jiao Tong University, China, advised by Prof.[Nanyang Ye](https://ynysjtu.github.io/).
 
 My research interests include Multimodal Perception and Reasoning, Trustworthy AI, and Out-of-Distribution Generalization. I have published several papers on top machine learning journals and conferences, including TPAMI, IJCV, NeurIPS, ICML, ICLR, and AAAI.
 
