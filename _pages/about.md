@@ -24,7 +24,7 @@ My research interests include Multimodal Perception and Reasoning, Trustworthy A
 
 
 
-# 🔥 Recent Updates
+# 👐 Recent Updates
 
 - *2026.01*: One journal paper [CFSM](https://ieeexplore.ieee.org/abstract/document/11345458) accepted to TPAMI. 
 - *2025.08*:  One journal paper [InfoBound](https://ieeexplore.ieee.org/abstract/document/11112669) accepted to TPAMI.  
@@ -159,9 +159,11 @@ ATT-COT: Prompting Vision-Language Models for OOD Generalization via Attention-A
 
 - **National Scholarship for Postgraduate Students**, 2025
 - **NeurIPS Top Reviewer**, 2025
-- **Huatai Securities Technology Scholarship**, Shanghai Jiao Tong University, 2024
+- **Huatai Securities Technology Scholarship**, 2024
+- **Merit Student**, Shanghai Jiao Tong University, 2024
+- **Merit Student**, Shanghai Jiao Tong University, 2023
 - **Outstanding Graduates**, ShanDong University, 2022
-
+- **Excellent Student Cadre**, Central South University, 2017
 
 
 ## ✔︎ Professional Activities
